@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn[standard]
+pandas
+sqlalchemy
+apscheduler
+jinja2
+python-dotenv
+email-validator
+pytest
+httpx
